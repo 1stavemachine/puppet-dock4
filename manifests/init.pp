@@ -1,4 +1,4 @@
-class dock3()
+class dock4()
 
 {
     mac_profiles_handler::manage { 'dockmaster.flamedock4':
